@@ -5,13 +5,13 @@
 - 🌱 I’m actively looking for oppotunities in Android Development.
 
 #### ⚡ One line that describes me best? 
-A hard working and energetic person who loves to code.
+A passionate AOSP Android Developer eagerly learning and adopting to latest technologies in Android
 
 #### 👯 Other interests
-I am interested in andorid app development using java, kotlin, xml and jetpack compose.
+I'm interested in Android app development using Java, Kotlin, XML and Android Studio.
 
 #### 💬 Want to know more about me?
-You can find my work on my [Portfolio](https://ssdcode.github.io/My-Portfolio/).
+You can find my work on [Portfolio](https://ssdcode.github.io/My-Portfolio/).
 
 <br />
 <!-- 
@@ -38,7 +38,7 @@ You can find my work on my [Portfolio](https://ssdcode.github.io/My-Portfolio/).
 
 [![Github](https://img.icons8.com/plasticine/50/000000/github.png)](https://github.com/SSdCode)
 [![LinkedIn](https://img.icons8.com/plasticine/50/000000/linkedin.png)](www.linkedin.com/in/srdube) 
-[![Gmail](https://img.icons8.com/plasticine/50/000000/gmail-new.png)](mailto:dubeysamir514@gmail.com) 
+[![Email](https://img.icons8.com/plasticine/50/000000/gmail-new.png)](mailto:dubeysamir514@gmail.com) 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSdCode)](https://github.com/SSdCode)
